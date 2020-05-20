@@ -7,4 +7,4 @@
 ![prophet](/prophet205-26.png)
 
 ## Lstm
-![lstm](/lstm205-23.png)
+![lstm](/lstm205-26.png)
